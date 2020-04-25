@@ -1,0 +1,11 @@
+{
+  "myxr.navigation.label-group": "Myxr",
+  "myxr.navigation.label-settings": "Myxr Settings",
+  "myxr.navigation.label-details": "Myxr details",
+  "myxr.navigation.label-table": "Myxr table",
+  "myxr.navigation.search.kws": "test, mock, fake",
+  "myxr.navigation.details.search.kws": "details, mock, test, hello",
+  "myxr.navigation.table.search.kws": "table, mock, test, bye",
+  "myxr.hello-world": "Myxr",
+  "myxr.settings-title": "Myxr Settings"
+}

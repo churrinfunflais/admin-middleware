@@ -1,0 +1,13 @@
+{
+  "section": "other",
+  "titleId": "myxr.navigation.label-group",
+  "subSection": "Myxr",
+  "searchKeyWordsHelpers": "myxr.navigation.search.kws",
+  "subSectionItems": [
+    {
+      "labelId": "myxr.navigation.label-settings",
+      "path": "/admin/myxr/settings",
+      "searchKeyWordsHelpers": "myxr.navigation.table.search.kws"
+    }
+  ]
+}

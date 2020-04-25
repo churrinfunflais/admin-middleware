@@ -1,0 +1,11 @@
+{
+  "myxr.navigation.label-group": "Admins de exemplo",
+  "myxr.navigation.label-settings": "Myxr Settings",
+  "myxr.navigation.label-details": "Exemplo de detalhes",
+  "myxr.navigation.label-table": "Exemplo de tabela",
+  "myxr.navigation.search.kws": "teste, mock, fake",
+  "myxr.navigation.details.search.kws": "detalhe, mock, test, oi",
+  "myxr.navigation.table.search.kws": "tabela, mock, test, tchau",
+  "myxr.hello-world": "Admin de exemplo",
+  "myxr.settings-title": "Myxr Settings"
+}

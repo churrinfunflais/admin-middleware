@@ -1,0 +1,10 @@
+{
+  "admin.app.myxr-settings": {
+    "component": "AdminMyxrSettings",
+    "path": "/admin/app/myxr/settings"
+  },
+  "admin.app.myxr-settings-detail": {
+    "component": "AdminMyxrSettingsDetail",
+    "path": "/admin/app/myxr/settings-detail"
+  }
+}
